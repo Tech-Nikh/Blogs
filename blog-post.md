@@ -1,4 +1,5 @@
-# Why DevOps & SRE is needed in the application release process
+# Day-1
+#Why DevOps & SRE is needed in the application release process
 The application release process has become increasingly complex due to the demand for rapid delivery, scalability, and reliability. DevOps and Site Reliability Engineering (SRE) address these challenges by streamlining workflows, fostering collaboration, and automating processes:
 
 1)DevOps focuses on breaking down team members are isolated from the team itself  between development and operations teams to enable faster, more efficient product delivery. It emphasizes continuous integration/continuous delivery (CI/CD), automation, and collaboration to ensure smooth application rollouts.
