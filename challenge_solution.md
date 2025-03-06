@@ -1,4 +1,4 @@
-Day-2
+#Day-2
 
 #Git
 Step 1- Download the git from given link: 
